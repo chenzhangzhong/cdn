@@ -1,0 +1,2 @@
+# wordPressCdn
+edison.cool(blog)
