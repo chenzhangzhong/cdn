@@ -1,2 +1,2 @@
-# wordPressCdn
+CDN
 edison.cool(blog)
